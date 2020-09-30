@@ -14,9 +14,8 @@ def game_hash(home, away)
      :steals => "", 
      :blocks =>  "", 
      :slam_dunks =>
- }
- , :away => {
-   :team_name => "",
+ }, 
+ :away => {:team_name => "",
    :colors => [""],
    :players => {
      :player_name => "", 
@@ -29,4 +28,3 @@ def game_hash(home, away)
      :blocks => "", 
      :slam_dunks => ""
  }
-
