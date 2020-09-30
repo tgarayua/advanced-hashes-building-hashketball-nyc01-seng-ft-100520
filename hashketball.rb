@@ -29,5 +29,4 @@ def game_hash(home, away)
      :blocks => "", 
      :slam_dunks => ""
  }
-end
 
