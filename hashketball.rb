@@ -5,7 +5,7 @@ def game_hash(home, away)
    :team_name => "",
    :colors => "",
    :players = [{
-     :player_name, 
+     :player_name => { 
      :number, 
      :shoe,
      :points,
@@ -13,7 +13,8 @@ def game_hash(home, away)
      :assists,
      :steals,
      :blocks,
-     :slam_dunks,
+     :slam_dunks
+     }
    }]
  }
  , :away => {
