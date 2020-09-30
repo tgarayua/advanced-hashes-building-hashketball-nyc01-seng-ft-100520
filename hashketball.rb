@@ -3,7 +3,7 @@ require "pry"
 def game_hash
  top_level = {
    :home => { 
-     :team_name => "", 
+     :team_name => "Brooklyn Nets", 
      :colors => "", 
      :players => { 
        :player_name => "", 
