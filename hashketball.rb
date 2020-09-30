@@ -14,7 +14,7 @@ def game_hash
      :steals => "", 
      :blocks =>  "", 
      :slam_dunks =>
- }, 
+ , 
  :away => { 
    :team_name => "",
    :colors => [""],
