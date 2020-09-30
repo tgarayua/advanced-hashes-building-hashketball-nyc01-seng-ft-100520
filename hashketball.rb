@@ -4,7 +4,7 @@ def game_hash(home, away)
  top_level = {:home => {
    :team_name => "",
    :colors => "",
-   :players = [{
+   :players => [{
      :player_name => { 
      :number, 
      :shoe,
