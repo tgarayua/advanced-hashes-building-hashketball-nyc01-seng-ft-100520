@@ -1,10 +1,11 @@
 require "pry"
 
 def game_hash
- top_level = {:home => {
-   :team_name => "",
-   :colors => "",
-   :players => {
+ top_level = {
+   :home => { 
+     :team_name => "", 
+     :colors => "", 
+     :players => {
      :player_name => "", 
      :number => "", 
      :shoe => "", 
