@@ -29,7 +29,7 @@ def game_hash(home, away)
      :steals
      :blocks
      :slam_dunks
-   }]
+   ]
  }
 end
 
