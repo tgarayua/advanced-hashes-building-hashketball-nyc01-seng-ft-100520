@@ -4,7 +4,7 @@ def game_hash
  top_level = {
    :home => { 
      :team_name => "Brooklyn Nets", 
-     :colors => "", 
+     :colors => [Black, White], 
      :players => { 
        :player_name => "", 
        :number => "", 
