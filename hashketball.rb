@@ -19,7 +19,7 @@ def game_hash(home, away)
  , :away => {
    :team_name => "",
    :colors => [""],
-   :players => [{
+   :players => {
      :player_name 
      :number
      :shoe
