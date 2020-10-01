@@ -5,8 +5,8 @@ def game_hash
    :home => { 
      :team_name => "Brooklyn Nets", 
      :colors => ["Black", "White"], 
-     :players => [ 
-      {:player_name => "Alan Anderson", 
+     :players => [{
+       :player_name => "Alan Anderson", 
        :number => "0", 
        :shoe => "16",
        :points => "22",
@@ -33,7 +33,7 @@ def game_hash
        :steals => "3",
        :blocks =>  "1",
        :slam_dunks => "15" },
-      {:player_name => "Mason Plumlee", 
+      { :player_name => "Mason Plumlee", 
        :number => "1", 
        :shoe => "19",
        :points => "26",
@@ -42,7 +42,7 @@ def game_hash
        :steals => "3",
        :blocks =>  "8",
        :slam_dunks => "5" },
-       {:player_name => "Jason Terry", 
+       { :player_name => "Jason Terry", 
        :number => "31", 
        :shoe => "15",
        :points => "19",
